@@ -5,7 +5,19 @@
 			"completed": true
 		},
 		{
-			"title": "Learn OpenUI5",
+			"title": "Attend TechEd",
+			"completed": false
+		},
+		{
+			"title": "Learn SAPUI5",
+			"completed": false
+		},
+		{
+			"title": "Learn about the UI5 Tooling",
+			"completed": false
+		},
+		{
+			"title": "Write great apps",
 			"completed": false
 		}
 	],
